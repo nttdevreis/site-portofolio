@@ -9,6 +9,12 @@ Como dominar todo o **Git** de forma _profissional_
 
 * Trabalhando com branches
 
+1. Entendendo o que é o Git,
+
+2. Aprendendo sobre repositorios,
+
+3. Trabalhando com branches
+
 ## Rede Social:
 [Instagram](https://instagram.com)
 

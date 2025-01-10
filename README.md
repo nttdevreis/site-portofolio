@@ -2,6 +2,14 @@
 # Bem vindo ao curso Git e Github
 Como dominar todo o **Git** de forma _profissional_
 
+# Menu:
+[Modulos](#modulos)
+
+[Rede Social](#rede-social)
+
+[Tabela](#tabela)
+
+
 ## Modulos:
 * Entendendo o que é o Git,
 
@@ -48,6 +56,7 @@ function showName(name) {
 }
 ```
 
+# Tabela:
 Propriedade | Descrição
 ------------| ---------
 name | Nome do usuário

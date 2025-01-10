@@ -48,6 +48,12 @@ function showName(name) {
 }
 ```
 
+Propriedade | Descrição
+------------| ---------
+name | Nome do usuário
+size | Tamanho do campo
+background | cor do fundo
+
 # Titulo <h1>
 ## Titulo <h2>
 ### Titulo <h3>

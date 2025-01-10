@@ -1,5 +1,5 @@
 # Bem vindo ao curso Git e Github
-Como dominar todo o Git de forma profissional
+Como dominar todo o **Git** de forma _profissional_
 
 ## Modulos:
 Entendendo o que é o Git,

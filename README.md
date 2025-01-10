@@ -3,11 +3,11 @@
 Como dominar todo o **Git** de forma _profissional_
 
 ## Modulos:
-Entendendo o que é o Git,
+* Entendendo o que é o Git,
 
-Aprendendo sobre repositorios,
+* Aprendendo sobre repositorios,
 
-Trabalhando com branches
+* Trabalhando com branches
 
 ## Rede Social:
 [Instagram](https://instagram.com)

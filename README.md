@@ -9,9 +9,14 @@ Aprendendo sobre repositorios,
 
 Trabalhando com branches
 
+## Rede Social:
 [Instagram](https://instagram.com)
 
+[**Instagram**](https://instagram.com)
+
 [Youtube](https://youtube.com)
+
+[_Youtube_](https://youtube.com)
 
 # Titulo <h1>
 ## Titulo <h2>

@@ -18,6 +18,11 @@ Como dominar todo o **Git** de forma _profissional_
 
 3. Trabalhando com branches
 
+**Ultimas atualizações:**
+- [x] Site
+- [ ] Login
+- [ ] Página
+
 ## Rede Social:
 [Instagram](https://instagram.com)
 

@@ -27,6 +27,10 @@ Como dominar todo o **Git** de forma _profissional_
 
 [_Youtube_](https://youtube.com)
 
+>Este é um blockquote, usado para destacar
+>
+>Segunda area destacada
+
 # Titulo <h1>
 ## Titulo <h2>
 ### Titulo <h3>

@@ -11,6 +11,9 @@ Como dominar todo o **Git** de forma _profissional_
 
 1. Entendendo o que é o Git,
 
+        1. O que é o Git
+        2. Instalação
+
 2. Aprendendo sobre repositorios,
 
 3. Trabalhando com branches

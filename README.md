@@ -31,6 +31,18 @@ Como dominar todo o **Git** de forma _profissional_
 >
 >Segunda area destacada
 
+**Comando para rodar o projeto:**
+```
+npm start
+```
+
+**Exemplo de javascript:**
+```js
+function showName(name) {
+    return "Bem vindo" + name
+}
+```
+
 # Titulo <h1>
 ## Titulo <h2>
 ### Titulo <h3>
